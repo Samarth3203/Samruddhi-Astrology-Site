@@ -224,7 +224,7 @@ body::-webkit-scrollbar-thumb{
 }
 .hs_effect_btn li .hs_btn_hover {
 	border-radius: 50px;
-	background: #37a4dd;
+	background:#37a4dd;
 	color: #fff;
 	-webkit-transition: background-color 0.3s, color 0.3s;
 	transition: background-color 0.3s, color 0.3s;
