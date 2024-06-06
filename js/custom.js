@@ -107,6 +107,7 @@
 
                 /* initialize shuffle plugin */
                 var $grid = $('#gridWrapper');
+                
 
                 $grid.shuffle({
                     itemSelector: '.portfolio-wrapper' // the selector for the items in the grid
